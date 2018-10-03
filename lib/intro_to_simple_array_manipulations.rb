@@ -29,7 +29,7 @@ end
   
 def using_insert(new_element, array) #passed the new_element as an argument 
    array = [1,2,3,4,6,7,8]
-   new_element = "Malbolge"  
+   #new_element = "Malbolge"  
   array.insert(4, new_element) #adds new element to the 4th index
 end
 
